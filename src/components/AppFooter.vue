@@ -1,6 +1,6 @@
 <template>
     <footer class="app-footer">
-        <p>© 2023 AI in Analytics</p>
+        <p>© 2023 Andrew Nicholas</p>
     </footer>
 </template>
   
